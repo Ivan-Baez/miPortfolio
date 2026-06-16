@@ -15,9 +15,17 @@ bun dev
 
 ## 📷 Capturas del Portfolio
 
-![Home](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111147.png)
-![Sobre mí](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111227.png)
-![Proyectos](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111241.png)
+## 📷 Capturas del Portfolio
+
+### Home
+![Home](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111147.png?raw=true)
+
+### Sobre mí
+![Sobre mí](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111227.png?raw=true)
+
+### Proyectos
+![Proyectos](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111241.png?raw=true)
+
 
 
 
