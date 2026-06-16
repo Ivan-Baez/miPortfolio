@@ -12,11 +12,12 @@ yarn dev
 pnpm dev
 # or
 bun dev
-<img width="1366" height="720" alt="Captura de pantalla 2026-06-16 111241" src="https://github.com/user-attachments/assets/54bda266-3a45-4fad-a6dd-a9b563406c27" />
 
-<img width="1366" height="720" alt="Captura de pantalla 2026-06-16 111227" src="https://github.com/user-attachments/assets/7d17b021-4720-42d6-a12b-cee177317734" />
+## 📷 Capturas del Portfolio
 
-```<img width="1366" height="720" alt="Captura de pantalla 2026-06-16 111147" src="https://github.com/user-attachments/assets/f071a6b6-9d26-44ac-9566-59385fb96e1f" />
+![Home](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111147.png)
+![Sobre mí](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111227.png)
+![Proyectos](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111241.png)
 
 
 
