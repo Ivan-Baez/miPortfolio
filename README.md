@@ -13,16 +13,6 @@ pnpm dev
 # or
 bun dev
 
-# 🌐 Mi Portfolio
-
-Este es mi portfolio personal desarrollado con **Next.js** y **NestJS**, donde muestro mis proyectos, tecnologías y experiencia.
-
-## 🚀 Tecnologías
-- Next.js
-- NestJS
-- TypeScript
-- CSS Modules
-
 ## 📷 Capturas del Portfolio
 
 ### Home
@@ -34,12 +24,6 @@ Este es mi portfolio personal desarrollado con **Next.js** y **NestJS**, donde m
 ### Proyectos
 ![Proyectos](https://github.com/Ivan-Baez/miPortfolio/blob/main/public/assets/screenshots/Captura%20de%20pantalla%202026-06-16%20111241.png?raw=true)
 
-## 🔗 Deploy
-Podés ver el portfolio online en: [miPortfolio en Vercel](https://miPortfolio.vercel.app)
-
-## 📬 Contacto
-- [LinkedIn](https://www.linkedin.com/in/ivan-baez)
-- [GitHub](https://github.com/Ivan-Baez)
 
 
 
