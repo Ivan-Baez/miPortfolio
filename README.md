@@ -12,7 +12,13 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+<img width="1366" height="720" alt="Captura de pantalla 2026-06-16 111241" src="https://github.com/user-attachments/assets/54bda266-3a45-4fad-a6dd-a9b563406c27" />
+
+<img width="1366" height="720" alt="Captura de pantalla 2026-06-16 111227" src="https://github.com/user-attachments/assets/7d17b021-4720-42d6-a12b-cee177317734" />
+
+```<img width="1366" height="720" alt="Captura de pantalla 2026-06-16 111147" src="https://github.com/user-attachments/assets/f071a6b6-9d26-44ac-9566-59385fb96e1f" />
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
