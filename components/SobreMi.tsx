@@ -37,7 +37,7 @@ export default function SobreMi() {
           {/* Botón CV debajo de la descripción */}
           <div className="mt-6">
             <a
-              href="public/cv/IvanBaez_FullStackBackend_Agents_CV.pdf.pdf"
+              href="/cv/IvanBaez_FullStackBackend_Agents_CV.pdf"
               download
               className="inline-block bg-yellow-400 hover:bg-orange-500 text-black font-semibold px-6 py-2 rounded-lg transition"
             >
