@@ -49,6 +49,20 @@ function Carrusel({ imagenes }: { imagenes: string[] }) {
 
 export default function Proyectos() {
   const proyectos = [
+{
+  titulo: "Cinema App 🎬",
+  descripcion: "Plataforma de gestión de películas con chatbot integrado y agentes de IA para recomendaciones y soporte automatizado, aplicando principios de AI Engineering.",
+  tecnologias: ["Next.js","MongoDB", "AI Multiagent System,OpenCode","RAG","Context7 y MCP"],
+  link: "https://github.com/Ivan-Baez/M2-Asistido-con-IA",
+  deploy: "https://m2-asistido-con-ia-1.onrender.com/", // si lo tenés desplegado, poné la URL aquí
+  imagenes: [
+    "/assets/CinemaM2/cinemaCatalagoDePeliculas.png",
+    "/assets/CinemaM2/cinemaHistoriaCine.png",
+    "/assets/CinemaM2/cinemaSobreProyecto.png",
+    "/assets/CinemaM2/cinemaCrearPelicula.png"
+  ]
+},
+
     {
       titulo: "Go Safe 🏞️",
       descripcion: "Plataforma que conecta instructores de turismo con personas interesadas en experiencias seguras.",
@@ -135,7 +149,7 @@ export default function Proyectos() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded transition w-full md:w-auto"
                 >
-                  Ver demo
+                  Abrir aplicación
                 </a>
               )}
             </div>
