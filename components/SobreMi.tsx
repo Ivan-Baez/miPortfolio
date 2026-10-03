@@ -24,11 +24,9 @@ export default function SobreMi() {
           <h2 className="text-5xl font-bold mb-4 text-orange-400">Soy Ivan Báez</h2>
 
           <p className="text-lg leading-relaxed text-gray-300 italic">
-            "¡Hola! Soy Ivan Báez, Desarrollador Full Stack con especialización en el ecosistema Node.js, NestJS y Next.js.
-            Me apasiona transformar ideas y lógica de negocio en soluciones digitales funcionales, seguras y escalables. 
-            Integro flujos de trabajo asistidos por IA y Spec-Driven Development (SDD) en mi día a día para diseñar arquitecturas
-             limpias y entregar código listo para producción. Mi objetivo es sumarme a equipos dinámicos donde pueda aportar visión técnica,
-              capacidad de adaptación y valor real desde el primer día."
+            "Soy Ivan Báez, Desarrollador Full Stack enfocado en arquitectura Backend y desarrollo web moderno. Actualmente construyo aplicaciones web robustas y escalables utilizando Next.js, NestJS, TypeScript y PostgreSQL.
+             Mi enfoque combina fundamentos sólidos de ingeniería de software con metodologías agénticas y herramientas de IA asistida, lo que me permite optimizar los tiempos de desarrollo manteniendo un alto estándar de calidad, 
+             seguridad y mantenibilidad en el código. Apasionado por el aprendizaje continuo y la resolución eficiente de problemas, busco aportar impacto real a través de tecnología bien diseñada."
           </p>
           <p className="text-lg leading-relaxed text-gray-400 flex items-center gap-2">
             📍 Mendoza, Argentina
