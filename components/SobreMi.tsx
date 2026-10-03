@@ -24,7 +24,11 @@ export default function SobreMi() {
           <h2 className="text-5xl font-bold mb-4 text-orange-400">Soy Ivan Báez</h2>
 
           <p className="text-lg leading-relaxed text-gray-300 italic">
-            Desarrollador Full Stack, actualmente desarrollo proyectos con Next.js y NestJS, aplicando buenas prácticas y aprendiendo a crear aplicaciones seguras, escalables y funcionales. Mi objetivo es seguir creciendo profesionalmente y aportar soluciones tecnológicas que generen impacto positivo con creatividad y calidad.
+            "¡Hola! Soy Ivan Báez, Desarrollador Full Stack con especialización en el ecosistema Node.js, NestJS y Next.js.
+            Me apasiona transformar ideas y lógica de negocio en soluciones digitales funcionales, seguras y escalables. 
+            Integro flujos de trabajo asistidos por IA y Spec-Driven Development (SDD) en mi día a día para diseñar arquitecturas
+             limpias y entregar código listo para producción. Mi objetivo es sumarme a equipos dinámicos donde pueda aportar visión técnica,
+              capacidad de adaptación y valor real desde el primer día."
           </p>
           <p className="text-lg leading-relaxed text-gray-400 flex items-center gap-2">
             📍 Mendoza, Argentina
@@ -33,7 +37,7 @@ export default function SobreMi() {
           {/* Botón CV debajo de la descripción */}
           <div className="mt-6">
             <a
-              href="/cv/Elcv2026.pdf"
+              href="public/cv/IvanBaez_FullStackBackend_Agents_CV.pdf.pdf"
               download
               className="inline-block bg-yellow-400 hover:bg-orange-500 text-black font-semibold px-6 py-2 rounded-lg transition"
             >

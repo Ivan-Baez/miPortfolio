@@ -26,9 +26,9 @@ emailjs.sendForm(
       id="contacto"
       className="p-8 bg-[#000000] text-white flex flex-col items-center"
     >
-      <h2 className="text-3xl font-bold text-gray-100 mb-2">Contáctame 💬</h2>
+      <h2 className="text-3xl font-bold text-gray-100 mb-2">Contacto   profesional</h2>
       <p className="text-gray-400 mb-6">
-        Hablemos de proyectos, ideas o café ☕
+        Disponible para nuevas oportunidades laborales, proyectos y colaboraciones técnicas.
       </p>
 
       {/* Formulario */}
